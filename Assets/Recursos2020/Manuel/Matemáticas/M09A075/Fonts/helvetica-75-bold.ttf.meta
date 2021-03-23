@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bcd3b1cc499247e46b58c8e4f6938190
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Helvetica 55 Roman
+  fontNames:
+  - Helvetica 55 Roman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8f014af63bc1b634083b41c1c7b97263, type: 3}
+  - {fileID: 12800000, guid: 8a9f4cfa7dfbbfa4d805c4c83947dd3e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

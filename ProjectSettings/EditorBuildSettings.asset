@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Book/Example/scenes/book.unity
+    guid: 7c00a0ee7a189de4a8689732168bf64b
+  - enabled: 1
+    path: Assets/Plantilla/Scenes/calculator.unity
+    guid: 82b772896e9fd5846b7e78631234692a
+  - enabled: 1
+    path: Assets/Recursos/M08A050T/BayatGames/Free Platform Game Assets/Demo/Demo.unity
+    guid: c141d24673958bb44b780d361745cca7
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M8A57/Dice/scenes/Demo/demo.unity"
+    guid: 9bffaf85fa8153c4ba4e72b19277f390
+  - enabled: 1
+    path: Assets/Recursos2020/Manuel/Lenguaje/L05A264/3D/Office Tile Kit/DemoScene.unity
+    guid: 107e5cdace0d43f4d934d494bd0eefcb
+  - enabled: 1
+    path: Assets/Plugins/SimpleInput/Example/ExampleScene.unity
+    guid: e33a0aeabb903c842bad84315710646c
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L2A224/Scena/L2A224.unity
+    guid: 0095ec82118b4484aae990fdc6f49af3
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L2A225/Scena/L2A225.unity
+    guid: ca218d8543900f04dbdfb61d35c7f638
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L3A227/Scena/L3A227.unity
+    guid: 21cef6516a369624e998f85377ef1a6f
+  - enabled: 1
+    path: Assets/Recursos2020/Manuel/Lenguaje/L03A229/Scenes/L03A229_Scene.unity
+    guid: d4c475986484af1499dc906b0ec3d215
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L3A230/Scena/L3A230.unity
+    guid: 09a37bb19e03bf54a8dc201829f1f69e
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L3A232/Scenas/L3A232.unity
+    guid: 7320ee2051af0e849bded33801a290b6
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L4A234/scene/L4A234.unity
+    guid: 9d681f243fb79d74db137e9c02be53ec
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L4A235/scene/L4A235.unity
+    guid: 242cf066b2758d044bede974dcf8fdae
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L4A237/scene/L4A237.unity
+    guid: 76b26322f26f52941a3761deea3d9da3
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L4A238/L4A238.unity
+    guid: bbc6eb1ec401c9447ba5d0172ce56484
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L4A255/scene/L4A255.unity
+    guid: 76b6e107b8a02da4a990f9c87a35e5ea
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L4A255/scene/L4A255_aplico.unity
+    guid: 7fe86c104b97a594a8eee730a289fb5b
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L5A256/scene/L5A256.unity
+    guid: 7ca87975476b8e34bb127c90787ab29b
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L5A257/Scena/L5A257.unity
+    guid: 6221840fb6b0eaa40a66677b25d00261
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L5A259/scene/L5A259.unity
+    guid: c4dd7c960cfb491478b5a894f99531c1
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L5A259/scene/L5A259_aplico.unity
+    guid: 54b148bc6f9dc8145a936bf32e21c949
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L5A260/Scena/L5A260.unity
+    guid: b82e8ce01171eb54b942d64ff710eb11
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L5A262/L5A262.unity
+    guid: e00de3164249b2745969bce6c34487bc
+  - enabled: 1
+    path: Assets/Recursos2020/Manuel/Lenguaje/L05A264/Scenes/L05A264_Scene.unity
+    guid: a25fd93769e665749ae0842bea72d98c
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L6A275/scene/L6A275.unity
+    guid: 40d5a97677adc3c489cc949251fb7515
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L6A276/Scena/L6A276.unity
+    guid: de94b59a5eb49a3449a3639b013bd3e5
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L6A277/scene/L6A277.unity
+    guid: 22b8bbb5afcc0d94f9b1e799e4528f50
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L6A278/Scena/L6A278.unity
+    guid: 15a1fa67e21a7464fa42bf2e4cf6a8c6
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L7A281/L7A281.unity
+    guid: 30cb31257c0bc024c81cd06f528eb762
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L9A279/Scena/L9A279.unity
+    guid: 22a108705e0f6c34c98c479414a1304a
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L9A282/Scena/L9A282.unity
+    guid: 335a0afe513e1ef41a59d3142d4d1a71
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L10A189/SCENE/L10A189.unity
+    guid: 3b177613d1f54e94380e26b1259e962e
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L10A190/scene/L10A190_aplico.unity
+    guid: 9274f5536cd454e4c816a605db43cf4e
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L10A190/scene/L10A190_conozco.unity
+    guid: abb3e3e724aacaf4591292e025161394
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L10A192/Scena/L10A192.unity
+    guid: d421bfb3b114fd647bd6014580410f37
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L10A194/Scena/L10A194.unity
+    guid: 8d37738c6c122924bbe79d761a7868ea
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L10L195/scene/L10L195.unity
+    guid: d7a1485b61e37c449923f5419818c01b
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L10L196/Scene/L10L196.unity
+    guid: 0e1a812c89eb3594aaefc5a1deba0bce
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L11A241/Scena/L11A241.unity
+    guid: 963bb890be951e34284947a592fb3f4a
+  - enabled: 1
+    path: Assets/Recursos2020/Manuel/Lenguaje/L11A267/Scenes/L11A267_Scene.unity
+    guid: a1d7c01dd9773944aa92a8b5172e6e4a
+  - enabled: 1
+    path: Assets/Recursos2020/Juan/Lenguaje/L11A269/Scena/L11A269.unity
+    guid: 193ac492532a2404a9ec5ae258b7298b
+  - enabled: 1
+    path: Assets/Recursos2020/Manuel/Lenguaje/L11A270/Scenes/L11A270_Scene.unity
+    guid: 429700909fea2884986be926ff51724f
+  - enabled: 1
+    path: Assets/Recursos2020/Jonathan/Lenguaje/L11L249/scene/L11L249.unity
+    guid: 9c14c716544c527489590f0d5018c224
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M0A65/Scenas/M0A65.unity"
+    guid: 02a8039b336d9db48b98cb5931c6d832
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M0L69/Scena/M0L69.unity"
+    guid: f6e2bd276be730f40854fee643a4f24a
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M1A66/Scena/M1A66.unity"
+    guid: 868ee05672e211542a5defa4919f8e5d
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M1A67/Scena/M1A67.unity"
+    guid: 861f2f165d4c7304bb7f1b593eff1820
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M1A68/Scena/M1A68.unity"
+    guid: 50eb0eef8403b53448db03619d999d25
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M1A71/Scena/M1A71.unity"
+    guid: 4c4cce3de2a4cab4e82059623c7113dc
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M1A109/Scena/M1A109.unity"
+    guid: 2b839151b7fe6584a94b73b89be79478
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M1L70/Scena/M1L70.unity"
+    guid: d585b473cff6e8642aeeb16a943b6026
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M02A110/Scenes/M02A110_Scene.unity"
+    guid: 4040cd914ed6e114eb1f18c5af4d8fda
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M02L111/Scenes/M02L111_Scene.unity"
+    guid: cc6aeeeb569097141b59ac2712afe5a5
+  - enabled: 1
+    path: "Assets/Recursos2020/Jonathan/Matem\xE1ticas/M3A97/scene/M3A97.unity"
+    guid: ab97ad422f2501647bf1f4f62ef7a2a0
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M03A098/Scenes/M03A098_Scene.unity"
+    guid: c5d7de5687264164da3b36ed5293f83f
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M3A99/Scena/M3A99.unity"
+    guid: 498ea234e3c0f1e438f5b9a0752a362d
+  - enabled: 1
+    path: "Assets/Recursos2020/Jonathan/Matem\xE1ticas/M3A100/scene/M3A100.unity"
+    guid: 94d9a1e3601504241a77105bfc061e90
+  - enabled: 1
+    path: "Assets/Recursos2020/Jonathan/Matem\xE1ticas/M4A112/Scene/M4A112.unity"
+    guid: b9a2d654d3f385a47a74230a7a020a33
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M04A113/Scenes/M04A113_Scene.unity"
+    guid: c923c9e0b1ffb164fafa7b0750639c85
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M4A114/Scena/M4A114.unity"
+    guid: 2b1f8582bc070de4fa7f012a38a5d6e1
+  - enabled: 1
+    path: "Assets/Recursos2020/Jonathan/Matem\xE1ticas/M5A115/scene/M5A115.unity"
+    guid: 968daffeac568134e9ee777edeb3795a
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M06A086/Scenes/M06A086_Scene.unity"
+    guid: ed889cfcf7de6814fa937bc3da4bb77e
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M06A087/Scenes/M06A087_Scene.unity"
+    guid: 8e007d8abb83c1d4d800fc0a50959952
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M06A088/Scenes/M06A088_Scene.unity"
+    guid: 5a534c22185ee0c42a55b6e9bced19f7
+  - enabled: 1
+    path: "Assets/Recursos2020/Manuel/Matem\xE1ticas/M06A089/Scenes/M06A089_Scene.unity"
+    guid: 72d47c979f2971c4eb16683fddebb129
+  - enabled: 1
+    path: "Assets/Recursos2020/Jonathan/Matem\xE1ticas/M6A91/scene/M6A91.unity"
+    guid: a905d44a110d191408381a55ba762e4a
+  - enabled: 1
+    path: "Assets/Recursos2020/Jonathan/Matem\xE1ticas/M6A92/scene/M6A92.unity"
+    guid: 4e36b7e1924335843bb8d4d85658ee7f
+  - enabled: 1
+    path: "Assets/Recursos2020/Juan/Matem\xE1ticas/M6A102/Scena/M6A102.unity"
+    guid: ed671ff298872424dac8f27222bdac08
+  m_configObjects: {}
